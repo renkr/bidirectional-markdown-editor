@@ -1,6 +1,6 @@
 # Bidirectional Markdown Editor [Concept]
 
-![demo](./public/demo.gif)
+![demo](/public/demo.gif)
 
 There are two types of Markdown editors: standard Markdown editors, which consist of a text area and a preview (used when editing README files on GitHub), and rich editors (WYSIWYG). However, both have their pros and cons.
 
