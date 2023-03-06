@@ -1,0 +1,6 @@
+build/
+public/
+**/node/mode_modules/
+*.config.js
+*.config.json
+.*
