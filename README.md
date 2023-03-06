@@ -1,6 +1,6 @@
 # Bidirectional Markdown Editor [Concept]
 
-![demo](/public/demo.gif)
+![demo](public/demo.gif)
 
 There are two types of Markdown editors: standard Markdown editors, which consist of a text area and a preview (used when editing README files on GitHub), and rich editors (WYSIWYG). However, both have their pros and cons.
 
@@ -25,5 +25,7 @@ So, I thought it would be nice if there were a standard Markdown editor, but whe
 This is project for proving a concept, and I'm not used to React yet, so please don't judge my awful code
 
 ## Demo
+
+**Warning: There are a lot of bugs!!**
 
 You can try it [here](https://renkr.github.io/bidirectional-markdown-editor/)
